@@ -2,6 +2,8 @@
 
 公開網站：https://plas-qms-public.k9616144.chatgpt.site
 
+GitHub Pages 入口：https://k9616144-afk.github.io/1028-1/ （自動轉至完整公開網站）
+
 可直接分享上述網址，訪客不需登入，也不需要啟動本機伺服器。
 
 功能包含客訴案件、MES 批次追溯、品質異常分析、CAPA、8D 報告、品質 KPI 與 SPC 預警。
