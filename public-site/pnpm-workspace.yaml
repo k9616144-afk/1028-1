@@ -1,0 +1,7 @@
+allowBuilds:
+  esbuild: true
+  workerd: true
+  sharp: true
+  protobufjs: false
+  '@google/genai': false
+  unrs-resolver: false

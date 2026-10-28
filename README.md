@@ -11,3 +11,5 @@
 本機開發：安裝 Node.js 後執行 `npm install`、`npm run dev`，再開啟 http://localhost:3000/。
 
 本倉庫保留原始 React、Vite 與 Express 專案；公開版的前端與分析 API 由 Sites 託管。
+
+公開部署版完整原始碼位於 [public-site/](public-site/)，對應 Sites 已發布版本 1（來源提交 `0fbc63d942f96c51861b4fab307da8e268f11a70`）。此資料夾包含網站畫面、五個分析 API、建置設定與套件鎖定檔。
