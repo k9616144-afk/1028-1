@@ -1,0 +1,6 @@
+{
+  "name": "塑膠包材品質客訴智慧分析與改善管理系統",
+  "description": "整合客訴案件、生產履歷批次追溯、AI 異常根本原因分析、相似歷史案例比對、AI 8D 報告生成與品質 KPI 儀表板的一站式智慧包材品質管理系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
